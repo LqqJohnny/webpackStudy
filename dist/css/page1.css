@@ -1,0 +1,12 @@
+#tpl{
+    color:blue;
+    font-size: 20px;
+}
+body{
+    background: url(..//images/qq.png) repeat;
+}
+.flex{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+}
